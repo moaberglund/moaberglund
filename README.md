@@ -6,7 +6,7 @@ Here I'm testing out the **README** feature on Github and learning *differnet fu
 * like how to make a list
 * and how to style a README file
 
-# Will update this soon, hang around
+### Will update this soon, hang around
 
 You can contact me on
 📫 mobe2305@student.miun.se
