@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Githuh
+### Hi there 👋 Welcome to my Github
 
 I'm Moa and I'm currently studying web development at Miduniverity in Sweden. 
 
@@ -11,6 +11,9 @@ Here I'm testing out the **README** feature on Github and learning *differnet fu
 You can contact me on
 📫 mobe2305@student.miun.se
 
+# 1
+## 2
+### 3
 
 <!--
 **moaberglund/moaberglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
