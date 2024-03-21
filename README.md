@@ -1,12 +1,8 @@
 ## Hi there 👋 Welcome to my Github
 
-I'm Moa and I'm currently studying web development at Miduniverity in Sweden. 
+I'm Moa and I'm currently studying web development at Miduniversity in Sweden. 
 
-Here I'm testing out the **README** feature on Github and learning *differnet functions.*
-* like how to make a list
-* and how to style a README file
-
-### Will update this soon, hang around
+### Many exiting news to come, hang around
 
 You can contact me on
 📫 mobe2305@student.miun.se
