@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github
 
-I'm Moa and I'm currently studying web development at Miduniversity in Sweden. 
+I'm Moa and I'm currently studying a diploma in computer engineering at Mid Sweden University. 
 
 ### Many exiting news to come, hang around
 
